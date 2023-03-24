@@ -37,6 +37,7 @@ body {
 button {
     flex-basis: calc(50% - 10px); /* 10px để tạo khoảng cách giữa 2 cột */
     margin: 5px;
+    max-width: 500px;
 }
 
 /* toggle switches*/
